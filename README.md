@@ -1,0 +1,3 @@
+- `sudo ufw allow 8880/tcp`
+- `sudo ufw allow 8443/tcp`
+- `sudo ufw reload`
