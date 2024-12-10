@@ -13,5 +13,8 @@ To allow traffic through these ports, you can run the following commands in your
 ```bash
 sudo ufw allow 8880/tcp
 sudo ufw allow 8443/tcp
+```
+
+```bash
 sudo ufw reload
 ```
